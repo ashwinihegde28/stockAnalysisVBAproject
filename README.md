@@ -5,7 +5,7 @@
 
 The Project contains analysis of Stock data with VBA and refactoring the same to increase the efficiency. In Stock analysis Project, Steve wants to know differently Green Energy stocks have performed in two years 2017 and 2018 through their “yearly return” and is it worth of investing into them.
 Through Visual Basic scripting the yearly increase/decrease in stock value for each ticker, the percentage change over the year, and the total volume for the year is calculated. The main goal is to achieve efficiency of the code through refactoring.
-Refactoring is a key part of the coding process, and it makes the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read without adding additional functionality. 
+Refactoring is a key part of the coding process, and it makes the code more efficient — by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read without adding additional functionality. 
 
 <br>
 
